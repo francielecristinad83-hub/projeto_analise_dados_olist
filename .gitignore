@@ -1,0 +1,17 @@
+# Ambiente virtual Python
+
+.venv/
+venv/
+
+# Cache do Python
+
+**pycache**/
+*.py[cod]
+
+# Configurações locais do VS Code
+
+.vscode/
+
+# Arquivos auxiliares que não serão publicados
+analise_vendas_backup.py
+teste.py
