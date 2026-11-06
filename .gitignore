@@ -1,16 +1,16 @@
 # Ambiente virtual Python
-
 .venv/
 venv/
 
 # Cache do Python
-
-**pycache**/
+__pycache__/
 *.py[cod]
 
 # Configurações locais do VS Code
-
 .vscode/
+
+# Dados brutos (baixados do Kaggle, veja o README)
+dados/
 
 # Arquivos auxiliares que não serão publicados
 analise_vendas_backup.py
