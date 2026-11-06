@@ -6,9 +6,13 @@ Projeto de portfólio feito para praticar o ciclo completo de análise: carregar
 
 ## 🔎 Principais resultados
 
-* **Novembro de 2017** teve o maior faturamento mensal da série: **R$ 987.765,37**, com **7.289 pedidos entregues**.
-* **Beleza e Saúde** (`beleza_saude`) teve o maior faturamento entre as categorias: **R$ 1.233.131,72**.
-* **Cama, Mesa e Banho** (`cama_mesa_banho`) foi a categoria com mais unidades vendidas: **10.953 itens**.
+- **Novembro de 2017** teve o maior faturamento mensal da série: **R$ 987.765,37**, com **7.289 pedidos entregues**.
+- **Beleza e Saúde** (`beleza_saude`) teve o maior faturamento entre as categorias: **R$ 1.233.131,72**.
+- **Cama, Mesa e Banho** (`cama_mesa_banho`) foi a categoria com mais unidades vendidas: **10.953 itens**.
+- **91,89% das entregas** chegaram no prazo ou antes.
+- **8,11% das entregas** chegaram atrasadas.
+
+> **Critérios da análise:** o faturamento considera apenas pedidos entregues e utiliza o valor dos produtos (`price`), sem incluir o frete. Os indicadores de prazo consideram 96.470 pedidos com datas válidas de entrega e previsão.
 
 > Os valores consideram apenas pedidos com status `delivered` e o preço dos itens (sem frete).
 
