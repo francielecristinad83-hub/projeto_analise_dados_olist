@@ -46,7 +46,7 @@ Todos os gráficos ficam na pasta [`imagens/`](imagens/).
 ## 📁 Estrutura
 
 ```text
-projeto-analise-dados/
+projeto-analise-dados_olist/
 ├── dados/                 # CSVs do Kaggle (não versionados)
 ├── imagens/               # gráficos gerados pelo script
 ├── analise_vendas.py      # código da análise
